@@ -367,6 +367,12 @@
 		ul.special-icons p {
 			padding-left: 2.7em;
 		}
+		
+		.u3 {
+			position:relative;
+			width: 960px;
+			margin: 0 auto;
+		}
 
 /* Tables */
 
@@ -796,4 +802,5 @@
 		letter-spacing: 2px;
 		text-transform: uppercase;
 		font-weight: 700;
-	}
+	}.3u {
+}
