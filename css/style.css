@@ -616,13 +616,13 @@
 			}
 
 				#nav > ul > li a {
-					color: inherit;
-					line-height: 4em;
-					letter-spacing: 2px;
-					text-decoration: none;
-					text-transform: uppercase;
-					font-weight: 400;
-					font-size: 1em;
+	color: white;
+	line-height: 4em;
+	letter-spacing: 2px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 1em;
 				}
 
 				#nav > ul > li:first-child {
