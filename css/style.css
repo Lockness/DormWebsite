@@ -361,7 +361,7 @@
 	display: inline-block;
 	padding-right: 1em;
 	font-size: 1.4em;
-	color: #555555;
+	color: ##BA0605;
 		}
 
 		ul.special-icons p {
@@ -447,7 +447,7 @@
 		input[type="reset"].alt,
 		input[type="button"].alt,
 		.button.alt {
-			border-color: inherit;
+			border-color: #ba0605;
 			color: inherit;
 		}
 
@@ -689,15 +689,16 @@
 	padding: 0.50em 0.30em;
 	background-color: #555555;
 	font-size: 3em;
-	font-weight: 400;
+	font-weight: 600;
 		}
 
 		#banner span, #banner p {
-			display: block;
-			letter-spacing: 1px;
-			text-transform: uppercase;
-			font-size: 1.6em;
-			font-weight: 300;
+	display: block;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	font-size: 2em;
+	font-weight: bolder;
+	color: #FFFFFF;
 		}
 
 		#banner span {
