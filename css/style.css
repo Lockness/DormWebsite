@@ -361,13 +361,13 @@
 	display: inline-block;
 	padding-right: 1em;
 	font-size: 1.4em;
-	color: ##BA0605;
+	color: #00865D;
 		}
 
 		ul.special-icons p {
 			padding-left: 2.7em;
 		}
-		
+
 		.u3 {
 	position: relative;
 	width: 960px;
@@ -481,8 +481,9 @@
 
 		.wrapper.style1 {
 			padding: 0em;
-			background: #222222 url(../images/banner.jpg) no-repeat;
+			background: #222222 url(../images/stadium2.jpg) no-repeat;
 			background-size: cover;
+			width: 100%;
 		}
 
 		.wrapper.style2 {
