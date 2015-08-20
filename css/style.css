@@ -539,6 +539,15 @@
 
 		.wrapper.style4 {
 			background: white;
+			text-align: center;
+		}
+		.wrapper.style4 p {
+			font-size: 1.6em;
+		}
+
+		.wrapper.style4 .container {
+			padding-left: 6em;
+			padding-right: 6em;
 		}
 
 		.wrapper.style5 {
@@ -558,6 +567,11 @@
 					border: 10px solid;
 					border-color: white;
 				}
+
+		.wrapper.style6 {
+			background: white;
+			text-align: center;
+		}
 
 /* Header */
 
@@ -689,7 +703,7 @@
 		#banner h2 {
 	display: inline-block;
 	padding: 0.50em 0.30em;
-	background-color: #555555;
+	background-color: #BA0605;
 	font-size: 3em;
 	font-weight: normal;
 		}
